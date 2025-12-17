@@ -11,4 +11,4 @@ Backup/*.bak
 # SQLite database files (local data)
 Backup/*.db
 
-Backup/Blocks/
+Backup/blocks/
