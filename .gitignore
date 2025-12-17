@@ -1,0 +1,14 @@
+# Visual Studio Code settings
+.vscode/
+
+# Build results
+Backup/[Bb]in/
+Backup/[Ob]j/
+
+# Backup files created by tools or manually
+Backup/*.bak
+
+# SQLite database files (local data)
+Backup/*.db
+
+Backup/Blocks/
