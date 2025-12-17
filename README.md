@@ -28,6 +28,7 @@ docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=YourPassword123" \
    -p 1433:1433 \
    -v C:\mssql\backup:/var/opt/mssql/backup \
    -d [mcr.microsoft.com/mssql/server:2022-latest](https://mcr.microsoft.com/mssql/server:2022-latest)
+```
 
 ### 3. Інструкція з запуску
     - Клонуйте репозиторій: git clone https://github.com/ostap1827/Coursework
